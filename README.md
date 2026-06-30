@@ -7,3 +7,5 @@ A collaborative task management application.
 - User authentication
 - Project management
 - Task tracking
+
+Project setup instructions coming soon.
